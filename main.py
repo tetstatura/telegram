@@ -42,7 +42,7 @@ async def handle_combined(event_group):
                     "Do not change the topic, do not add or remove content. "
                     "Preserve the full message structure, including emojis, slang, political names, or short statements. "
                     "and make sure massage looks perfectly good feel free to send it with some empty raw if you understood what i'am talking about and feel free to use emoji if it was in original massage"
-                    "answers must be in english if massage waas on other launge translate iit on english and if there are some @ ads od tags remove it if you think something need to be removed for my news chanel what will signal a copy of original remove it and remove text full story or something like that where you need to put a link to click on it"
+                    "answers must be in english iif massage waas on other launge translate iit on english and if there are some @ ads od tags remove it if you think something need to be removed for my news chanel what will signal a copy of original remove it and remove text full story or something like that where you need to put a link to click on it"
 
                 )
             },
